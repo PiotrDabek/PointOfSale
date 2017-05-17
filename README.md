@@ -1,0 +1,2 @@
+# PointOfSale
+Projekt rekrutacyjny
